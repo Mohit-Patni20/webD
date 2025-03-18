@@ -1,0 +1,14 @@
+body {
+    background-color: #f1f8e9;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #388e3c;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 16px;
+    color: #555;
+}

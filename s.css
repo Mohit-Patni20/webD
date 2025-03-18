@@ -1,0 +1,14 @@
+body {
+    background-color: #fce4ec;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #d81b60;
+    text-align: center;
+}
+img {
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: #ffe0b2;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    color: #d84315;
+}
+ul {
+    padding-left: 20px;
+}
+ul li {
+    list-style-type: square;
+    font-size: 18px;
+    margin: 5px 0;
+}
